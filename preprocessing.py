@@ -1,33 +1,34 @@
 import re
 import glob
-# import os
 
 files = glob.glob(
-    r"C:\Users\owner\Desktop\python\poker data preprocessing\data\*")
+    r"C:\Users\owner\Desktop\python\practice poker\data\*")
 
-with open(files[0]) as fi:
-    game = []
-    showdown = True
-    data = []
-    while True:
-        line = fi.readline()
+for file in files:
+    with open(file) as fi:
+        game = []
+        showdown = False
+        data = []
+        while True:
+            line = fi.readline()
 
-        if 'starts' in line:
-            # ショーダウンまで行ったゲームのみ書き込み
-            if showdown and game:
-                game.append('\n\n')
-                data.append(game)
-            game = []
-            showdown = True
+            if 'starts' in line:
+                # ショーダウンまで行ったゲームのみ書き込み
+                if showdown:
+                    game.append('\n\n')
+                    data.append(game)
 
-        if not line == '\n':
-            # ショーダウンまで行かなかった場合
-            if 'does not show cards' in line:
+                # 次のゲーム
+                game = []
                 showdown = False
 
-            game.append(line)
-        if not line:
-            break
+            if not line == '\n':
+                if 'shows' in line:
+                    showdown = True
+
+                game.append(line)
+            if not line:
+                break
 
 
 class Preprocessing:
@@ -60,6 +61,16 @@ class Preprocessing:
             if 'Total number of players' in text:
                 self.player_count = int(re.findall(r'\d+', text)[0])
 
+            # 離席したプレイヤーを除く
+            if 'left the table' in text:
+                ID = text.split()[0]
+                for i in self.player_dict:
+                    if self.player_dict[i]['id'] == ID:
+                        self.player_num_list.remove(i)
+                        self.player_dict.pop(i)
+                        self.player_count -= 1
+                        break
+
         self.player_num_list.sort()
 
     def addPosition(self):
@@ -70,13 +81,13 @@ class Preprocessing:
         idx = player_num_list.index(button)
 
         if self.player_count == 2:
-            player_dict[button]['position'] = 'BB'
+            player_dict[button]['position'] = 'BTN'
             # [1, 2]  button = 2
             if idx == 1:
-                player_dict[player_num_list[idx - 1]]['position'] = 'SB'
+                player_dict[player_num_list[idx - 1]]['position'] = 'BB'
             # [1, 2]  button = 1
             else:
-                player_dict[player_num_list[idx + 1]]['position'] = 'SB'
+                player_dict[player_num_list[idx + 1]]['position'] = 'BB'
 
         elif self.player_count == 3:
             player_dict[button]['position'] = 'BTN'
@@ -341,7 +352,7 @@ class Preprocessing:
         self.copy = copy
 
 
-with open(r'C:\Users\owner\Desktop\python\poker data preprocessing\output\out.txt', mode='w') as fo:
+with open(r'C:\Users\owner\Desktop\python\practice poker\output\out.txt', mode='w') as fo:
     for game in data:
         p = Preprocessing(game)
         for line in game:

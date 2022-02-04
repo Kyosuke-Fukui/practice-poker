@@ -37,26 +37,26 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 00:44:05 EDT 2009
 Table Jackpot #1304637 (No DP) (Real Money)
 Seat 4 is the button
 Total number of players : 2 
-Seat 4: BB ( $284 USD )
-Seat 3: SB ( $230 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 4: BTN ( $284 USD )
+Seat 3: BB ( $230 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$15 USD]
-SB calls [$12 USD]
+BTN raises [$15 USD]
+BB calls [$12 USD]
 ** Dealing Flop ** [ 6c, 5s, 4c ]
-SB checks
-BB bets [$26.25 USD]
-SB calls [$26.25 USD]
-** Dealing Turn ** [ 5c ]
-SB checks
 BB checks
+BTN bets [$26.25 USD]
+BB calls [$26.25 USD]
+** Dealing Turn ** [ 5c ]
+BB checks
+BTN checks
 ** Dealing River ** [ Jh ]
-SB bets [$62 USD]
-BB folds
-SB shows [ 7s, 9s ]a pair of Fives.
+BB bets [$62 USD]
+BTN folds
+BB shows [ 7s, 9s ]a pair of Fives.
 The time at which hand ended:Jul 01 2009 00:44 EDT
-SB wins $149.50 USD from the main pot with a pair of Fives.
+BB wins $149.50 USD from the main pot with a pair of Fives.
 
 
 Game #16406835606 starts.
@@ -66,26 +66,26 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 00:46:20 EDT 2009
 Table Jackpot #1304637 (No DP) (Real Money)
 Seat 4 is the button
 Total number of players : 2 
-Seat 4: BB ( $282.75 USD )
-Seat 3: SB ( $283.25 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 4: BTN ( $282.75 USD )
+Seat 3: BB ( $283.25 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$9 USD]
-SB calls [$6 USD]
+BTN raises [$9 USD]
+BB calls [$6 USD]
 ** Dealing Flop ** [ Jh, 8c, Ah ]
-SB checks
 BB checks
+BTN checks
 ** Dealing Turn ** [ 5c ]
-SB checks
 BB checks
+BTN checks
 ** Dealing River ** [ 6h ]
-SB checks
 BB checks
-SB shows [ 5h, 7s ]a pair of Fives.
-BB shows [ 7d, 8s ]a pair of Eights.
+BTN checks
+BB shows [ 5h, 7s ]a pair of Fives.
+BTN shows [ 7d, 8s ]a pair of Eights.
 The time at which hand ended:Jul 01 2009 00:46 EDT
-BB wins $23 USD from the main pot with a pair of Eights.
+BTN wins $23 USD from the main pot with a pair of Eights.
 
 
 Game #16406841678 starts.
@@ -95,28 +95,28 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 00:51:11 EDT 2009
 Table Jackpot #1304637 (No DP) (Real Money)
 Seat 3 is the button
 Total number of players : 2 
-Seat 4: SB ( $457.80 USD )
-Seat 3: BB ( $600 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 4: BB ( $457.80 USD )
+Seat 3: BTN ( $600 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$15 USD]
+BTN raises [$15 USD]
 +kdpZWYsyhxxoKTX4yZyjQ has joined the table.
-SB calls [$12 USD]
+BB calls [$12 USD]
 ** Dealing Flop ** [ 8c, Th, 5c ]
-SB checks
 BB checks
+BTN checks
 ** Dealing Turn ** [ 3d ]
-SB checks
 BB checks
+BTN checks
 ** Dealing River ** [ Ad ]
-SB checks
-BB bets [$26 USD]
-SB calls [$26 USD]
-BB shows [ 9h, Qs ]high card Ace.
-SB shows [ Td, 9s ]a pair of Tens.
+BB checks
+BTN bets [$26 USD]
+BB calls [$26 USD]
+BTN shows [ 9h, Qs ]high card Ace.
+BB shows [ Td, 9s ]a pair of Tens.
 The time at which hand ended:Jul 01 2009 00:51 EDT
-SB wins $87 USD from the main pot with a pair of Tens.
+BB wins $87 USD from the main pot with a pair of Tens.
 
 
 Game #16406845930 starts.
@@ -265,22 +265,22 @@ Seat 1 is the button
 Total number of players : 7
 Seat 9: HJ ( $360.50 USD )
 Seat 1: BTN ( $134.95 USD )
-Seat 8: LJ ( $615 USD )
+Seat 8: UTG ( $615 USD )
 Seat 10: CO ( $124.72 USD )
 Seat 2: SB ( $564 USD )
-Seat 7: UTG ( $610.60 USD )
-Seat 6: BB ( $693.50 USD )
+Seat 7: BB ( $610.60 USD )
+Seat 6: GNfHTrYCiLzLqW03F0sHaQ ( $693.50 USD )
 SB posts small blind [$3 USD].
-UTG posts big blind [$6 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB has left the table.
-LJ folds
+GNfHTrYCiLzLqW03F0sHaQ has left the table.
+UTG folds
 HJ folds
 CO raises [$19 USD]
 BTN folds
 SB raises [$47 USD]
 cMyNxAvOfIvHjTdkgeK5Gg has joined the table.
-UTG folds
+BB folds
 CO is all-In  [$105.72 USD]
 SB calls [$74.72 USD]
 ** Dealing Flop ** [ 9c, 2h, 3c ]
@@ -378,32 +378,32 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 01:54:01 EDT 2009
 Table Jackpot #1304186 (No DP) (Real Money)
 Seat 6 is the button
 Total number of players : 7
-Seat 1: LJ ( $119.20 USD )
+Seat 1: UTG ( $119.20 USD )
 Seat 3: HJ ( $618.40 USD )
 Seat 8: BB ( $600 USD )
 Seat 6: BTN ( $645 USD )
-Seat 9: UTG ( $600 USD )
+Seat 9: ulid4DmV4Xvps0edajFm9A ( $600 USD )
 Seat 7: SB ( $1,178 USD )
 Seat 4: CO ( $631.25 USD )
 SB posts small blind [$3 USD].
-LJ posts big blind [$6 USD].
+UTG posts big blind [$6 USD].
 ** Dealing down cards **
 HJ folds
-UTG has left the table.
+ulid4DmV4Xvps0edajFm9A has left the table.
 CO calls [$6 USD]
 BTN folds
 SB folds
-LJ checks
+UTG checks
 ** Dealing Flop ** [ Qd, 2d, Kh ]
-LJ checks
+UTG checks
 CO checks
 ** Dealing Turn ** [ Tc ]
-LJ checks
+UTG checks
 CO checks
 ** Dealing River ** [ 7s ]
-LJ checks
+UTG checks
 CO checks
-LJ shows [ 5h, 9c ]high card King.
+UTG shows [ 5h, 9c ]high card King.
 CO shows [ 5d, 5s ]a pair of Fives.
 The time at which hand ended:Jul 01 2009 01:53 EDT
 CO wins $13.75 USD from the main pot with a pair of Fives.
@@ -626,25 +626,6 @@ The time at which hand ended:Jul 01 2009 02:38 EDT
 SB wins $111.50 USD from the main pot with two pairs, Jacks and Nines.
 
 
-Game #16406991336 starts.
-#Game No : 16406991336 
-***** Hand History for Game 16406991336 *****
-$600 USD NL Texas Hold'em - Wednesday, July 01, 02:42:26 EDT 2009
-Table Heads Up #1443554 (No DP) (Real Money)
-Seat 1 is the button
-Total number of players : 2 
-Seat 2: SB ( $558 USD )
-Seat 1: BB ( $300 USD )
-BB posts small blind [$3 USD].
-SB is sitting out
-SB has left the table.
-BB has left the table.
-Znrvp3lOK3audpfWbkPCBw has joined the table.
-BB has joined the table.
-** Dealing **
-The high card is the Nine of clubs. Znrvp3lOK3audpfWbkPCBw wins the button.
-
-
 Game #16406995172 starts.
 #Game No : 16406995172
 ***** Hand History for Game 16406995172 *****
@@ -730,21 +711,21 @@ Table Jackpot #1304636 (No DP) (Real Money)
 Seat 3 is the button
 Total number of players : 6
 Seat 2: CO ( $735 USD )
-Seat 6: UTG ( $931.47 USD )
-Seat 1: HJ ( $630.35 USD )
+Seat 6: nTTnUsp/K188OiBBi9HLbA ( $931.47 USD )
+Seat 1: UTG ( $630.35 USD )
 Seat 3: BTN ( $710.20 USD )
 Seat 5: BB ( $600 USD )
 Seat 4: SB ( $68.02 USD )
 SB posts small blind [$3 USD].
 BB posts big blind [$6 USD].
 ** Dealing down cards **
-HJ folds
+UTG folds
 CO folds
 BTN calls [$6 USD]
 SB calls [$3 USD]
 BB checks
 ** Dealing Flop ** [ Ac, Qd, 4d ]
-UTG has left the table.
+nTTnUsp/K188OiBBi9HLbA has left the table.
 SB checks
 BB checks
 BTN checks
@@ -958,27 +939,27 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 03:13:21 EDT 2009
 Table Heads Up #1443554 (No DP) (Real Money)
 Seat 2 is the button
 Total number of players : 2 
-Seat 2: BB ( $600 USD )
-Seat 1: SB ( $300 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BTN ( $600 USD )
+Seat 1: BB ( $300 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$9 USD]
-SB calls [$6 USD]
+BTN raises [$9 USD]
+BB calls [$6 USD]
 ** Dealing Flop ** [ Ts, Qs, 3s ]
-SB checks
-BB bets [$13 USD]
-SB calls [$13 USD]
-** Dealing Turn ** [ 7h ]
-SB checks
-BB bets [$28 USD]
-SB calls [$28 USD]
-** Dealing River ** [ 2c ]
-SB checks
 BB checks
-SB shows [ Ks, 9d ]high card King.
-BB shows [ Td, Jc ]a pair of Tens.
-BB wins $105 USD from the main pot with a pair of Tens.
+BTN bets [$13 USD]
+BB calls [$13 USD]
+** Dealing Turn ** [ 7h ]
+BB checks
+BTN bets [$28 USD]
+BB calls [$28 USD]
+** Dealing River ** [ 2c ]
+BB checks
+BTN checks
+BB shows [ Ks, 9d ]high card King.
+BTN shows [ Td, Jc ]a pair of Tens.
+BTN wins $105 USD from the main pot with a pair of Tens.
 
 
 Game #16407044458 starts.
@@ -1026,26 +1007,26 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 03:16:39 EDT 2009
 Table Heads Up #1443554 (No DP) (Real Money)
 Seat 1 is the button
 Total number of players : 2 
-Seat 2: SB ( $664 USD )
-Seat 1: BB ( $232 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BB ( $664 USD )
+Seat 1: BTN ( $232 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB calls [$3 USD]
-SB checks
-** Dealing Flop ** [ 3c, 7d, 3s ]
-SB bets [$7 USD]
-BB calls [$7 USD]
-** Dealing Turn ** [ 5s ]
-SB checks
-BB bets [$25 USD]
-SB calls [$25 USD]
-** Dealing River ** [ Jh ]
-SB checks
+BTN calls [$3 USD]
 BB checks
-SB shows [ 5c, 4s ]two pairs, Fives and Threes.
-BB doesn't show [ Qd, 8c ]a pair of Threes.
-SB wins $75 USD from the main pot with two pairs, Fives and Threes.
+** Dealing Flop ** [ 3c, 7d, 3s ]
+BB bets [$7 USD]
+BTN calls [$7 USD]
+** Dealing Turn ** [ 5s ]
+BB checks
+BTN bets [$25 USD]
+BB calls [$25 USD]
+** Dealing River ** [ Jh ]
+BB checks
+BTN checks
+BB shows [ 5c, 4s ]two pairs, Fives and Threes.
+BTN doesn't show [ Qd, 8c ]a pair of Threes.
+BB wins $75 USD from the main pot with two pairs, Fives and Threes.
 
 
 Game #16407051086 starts.
@@ -1055,25 +1036,25 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 03:18:27 EDT 2009
 Table Heads Up #1443554 (No DP) (Real Money)
 Seat 2 is the button
 Total number of players : 2 
-Seat 2: BB ( $692 USD )
-Seat 1: SB ( $203 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BTN ( $692 USD )
+Seat 1: BB ( $203 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$12 USD]
-SB calls [$9 USD]
+BTN raises [$12 USD]
+BB calls [$9 USD]
 ** Dealing Flop ** [ 7h, 9c, 4h ]
-SB checks
 BB checks
+BTN checks
 ** Dealing Turn ** [ 3h ]
-SB checks
 BB checks
+BTN checks
 ** Dealing River ** [ 7c ]
-SB checks
 BB checks
-SB shows [ 6d, 8s ]a pair of Sevens.
-BB shows [ Qd, Jd ]a pair of Sevens with Queen kicker.
-BB wins $29 USD from the main pot with a pair of Sevens with Queen kicker.
+BTN checks
+BB shows [ 6d, 8s ]a pair of Sevens.
+BTN shows [ Qd, Jd ]a pair of Sevens with Queen kicker.
+BTN wins $29 USD from the main pot with a pair of Sevens with Queen kicker.
 
 
 Game #16407052530 starts.
@@ -1083,26 +1064,26 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 03:19:18 EDT 2009
 Table Heads Up #1443554 (No DP) (Real Money)
 Seat 1 is the button
 Total number of players : 2 
-Seat 2: SB ( $706 USD )
-Seat 1: BB ( $188 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BB ( $706 USD )
+Seat 1: BTN ( $188 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB calls [$3 USD]
-SB will be using his time bank for this hand.
-SB checks
+BTN calls [$3 USD]
+BB will be using his time bank for this hand.
+BB checks
 ** Dealing Flop ** [ Ad, 3s, 7d ]
-SB checks
 BB checks
+BTN checks
 ** Dealing Turn ** [ 2s ]
-SB checks
 BB checks
+BTN checks
 ** Dealing River ** [ Jh ]
-SB checks
 BB checks
-SB shows [ 9h, 6d ]high card Ace.
-BB shows [ 5s, Kc ]high card Ace with King kicker.
-BB wins $11.40 USD from the main pot with high card, Ace with King kicker.
+BTN checks
+BB shows [ 9h, 6d ]high card Ace.
+BTN shows [ 5s, Kc ]high card Ace with King kicker.
+BTN wins $11.40 USD from the main pot with high card, Ace with King kicker.
 
 
 Game #16407055928 starts.
@@ -1150,23 +1131,23 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 03:22:37 EDT 2009
 Table Heads Up #1443554 (No DP) (Real Money)
 Seat 1 is the button
 Total number of players : 2 
-Seat 2: SB ( $742 USD )
-Seat 1: BB ( $149.40 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BB ( $742 USD )
+Seat 1: BTN ( $149.40 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB calls [$3 USD]
-SB raises [$18 USD]
-BB raises [$78 USD]
-SB is all-In  [$718 USD]
-BB is all-In  [$65.40 USD]
+BTN calls [$3 USD]
+BB raises [$18 USD]
+BTN raises [$78 USD]
+BB is all-In  [$718 USD]
+BTN is all-In  [$65.40 USD]
 ** Dealing Flop ** [ Ah, 4d, 5h ]
 ** Dealing Turn ** [ 5d ]
 ** Dealing River ** [ Jc ]
-BB shows [ Kh, Qc ]a pair of Fives.
-SB shows [ 7c, 7s ]two pairs, Sevens and Fives.
-SB wins $592.60 USD from the side pot 1 with two pairs, Sevens and Fives.
-SB wins $297.80 USD from the main pot with two pairs, Sevens and Fives.
+BTN shows [ Kh, Qc ]a pair of Fives.
+BB shows [ 7c, 7s ]two pairs, Sevens and Fives.
+BB wins $592.60 USD from the side pot 1 with two pairs, Sevens and Fives.
+BB wins $297.80 USD from the main pot with two pairs, Sevens and Fives.
 
 
 Game #16407064074 starts.
@@ -1329,27 +1310,27 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 03:45:58 EDT 2009
 Table Table  127202 (Real Money)
 Seat 5 is the button
 Total number of players : 2 
-Seat 2: SB ( $152 USD )
-Seat 5: BB ( $609 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BB ( $152 USD )
+Seat 5: BTN ( $609 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$9 USD]
-SB calls [$6 USD]
+BTN raises [$9 USD]
+BB calls [$6 USD]
 ** Dealing Flop ** [ 8h, Kh, Ac ]
-SB checks
-BB bets [$12 USD]
-SB calls [$12 USD]
+BB checks
+BTN bets [$12 USD]
+BB calls [$12 USD]
 ** Dealing Turn ** [ 9c ]
-SB checks
 BB checks
+BTN checks
 ** Dealing River ** [ Qd ]
-SB checks
-fhoF7ZInouNYWwKQAaCZPw has joined the table.
 BB checks
-SB shows [ 8d, 5s ]a pair of Eights.
-BB doesn't show [ 3s, 3h ]a pair of Threes.
-SB wins $47 USD from the main pot with a pair of Eights.
+fhoF7ZInouNYWwKQAaCZPw has joined the table.
+BTN checks
+BB shows [ 8d, 5s ]a pair of Eights.
+BTN doesn't show [ 3s, 3h ]a pair of Threes.
+BB wins $47 USD from the main pot with a pair of Eights.
 
 
 Game #16407104078 starts.
@@ -1527,33 +1508,33 @@ Table Table  127202 (Real Money)
 Seat 1 is the button
 Total number of players : 6
 Seat 1: BTN ( $645 USD )
-Seat 2: SB ( $0 USD )
-Seat 4: UTG ( $600 USD )
-Seat 5: HJ ( $1,171.30 USD )
-Seat 3: BB ( $401 USD )
+Seat 2: SdmlEQVjXwki5RaW64jvjw ( $0 USD )
+Seat 4: BB ( $600 USD )
+Seat 5: UTG ( $1,171.30 USD )
+Seat 3: SB ( $401 USD )
 Seat 6: CO ( $664.05 USD )
-BB posts small blind [$3 USD].
-UTG posts big blind [$6 USD].
+SB posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-HJ folds
-SB has left the table.
+UTG folds
+SdmlEQVjXwki5RaW64jvjw has left the table.
 CO calls [$6 USD]
 BTN folds
-BB folds
+SB folds
 A3NkQURcDyP3vV0hOwLD7g has joined the table.
-UTG checks
+BB checks
 ** Dealing Flop ** [ 4c, Ac, Ks ]
-UTG bets [$12 USD]
+BB bets [$12 USD]
 CO calls [$12 USD]
 ** Dealing Turn ** [ Ts ]
-UTG bets [$27 USD]
+BB bets [$27 USD]
 CO calls [$27 USD]
 ** Dealing River ** [ Td ]
-UTG bets [$84 USD]
+BB bets [$84 USD]
 CO calls [$84 USD]
-UTG shows [ Th, Jd ]three of a kind, Tens.
+BB shows [ Th, Jd ]three of a kind, Tens.
 CO doesn't show [ 7c, Ad ]two pairs, Aces and Tens.
-UTG wins $259 USD from the main pot with three of a kind, Tens.
+BB wins $259 USD from the main pot with three of a kind, Tens.
 
 
 Game #16407130208 starts.
@@ -1672,9 +1653,9 @@ Total number of players : 6
 Seat 1: UTG ( $645 USD )
 Seat 4: BTN ( $727 USD )
 Seat 5: SB ( $1,570.30 USD )
-Seat 3: CO ( $0 USD )
+Seat 3: fhoF7ZInouNYWwKQAaCZPw ( $0 USD )
 Seat 6: BB ( $535.05 USD )
-Seat 2: HJ ( $600 USD )
+Seat 2: CO ( $600 USD )
 SB posts small blind [$3 USD].
 BB posts big blind [$6 USD].
 ** Dealing down cards **
@@ -1684,7 +1665,7 @@ SB folds
 BB raises [$36 USD]
 UTG calls [$18 USD]
 ** Dealing Flop ** [ 5c, Td, 5s ]
-CO has left the table.
+fhoF7ZInouNYWwKQAaCZPw has left the table.
 BB bets [$60 USD]
 u9HjaB9Ay09gj9LVRCCOWw has joined the table.
 UTG raises [$150.50 USD]
@@ -1819,32 +1800,32 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:11:20 EDT 2009
 Table Table  127202 (Real Money)
 Seat 6 is the button
 Total number of players : 6
-Seat 4: HJ ( $600 USD )
+Seat 4: UTG ( $600 USD )
 Seat 1: SB ( $690.06 USD )
-Seat 3: UTG ( $600 USD )
+Seat 3: u9HjaB9Ay09gj9LVRCCOWw ( $600 USD )
 Seat 5: CO ( $1,531.30 USD )
 Seat 6: BTN ( $1,007.54 USD )
 Seat 2: BB ( $629 USD )
 BB posts small blind [$3 USD].
-HJ posts big blind [$6 USD].
+UTG posts big blind [$6 USD].
 ** Dealing down cards **
 CO folds
 BTN folds
 BB calls [$3 USD]
-HJ checks
+UTG checks
 ** Dealing Flop ** [ 3c, Qc, 8c ]
-UTG has left the table.
+u9HjaB9Ay09gj9LVRCCOWw has left the table.
 BB bets [$7 USD]
-HJ calls [$7 USD]
+UTG calls [$7 USD]
 ** Dealing Turn ** [ 7d ]
 BB checks
-HJ checks
+UTG checks
 ** Dealing River ** [ 4c ]
 BB bets [$12 USD]
 m1gIgIfiyRvt/kuTI+uxTQ has joined the table.
-HJ calls [$12 USD]
+UTG calls [$12 USD]
 BB shows [ 4h, Ac ]a flush, Ace high.
-HJ doesn't show [ 6c, 8s ]a flush, Queen high.
+UTG doesn't show [ 6c, 8s ]a flush, Queen high.
 BB wins $48 USD from the main pot with a flush, Ace high.
 
 
@@ -1999,25 +1980,25 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:17:59 CEST 2009
 Table Heads Up #1443538 (No DP) (Real Money)
 Seat 2 is the button
 Total number of players : 2 
-Seat 2: BB ( $600 USD )
-Seat 1: SB ( $555.08 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BTN ( $600 USD )
+Seat 1: BB ( $555.08 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$15 USD]
-SB calls [$12 USD]
+BTN raises [$15 USD]
+BB calls [$12 USD]
 ** Dealing Flop ** [ Ks, Ts, 5h ]
-SB checks
 BB checks
+BTN checks
 ** Dealing Turn ** [ 7s ]
-SB checks
 BB checks
+BTN checks
 ** Dealing River ** [ 9d ]
-SB bets [$18 USD]
-BB calls [$18 USD]
-SB shows [ Qh, 8c ]high card King.
-BB shows [ 9h, 6c ]a pair of Nines.
-BB wins $71 USD from the main pot with a pair of Nines.
+BB bets [$18 USD]
+BTN calls [$18 USD]
+BB shows [ Qh, 8c ]high card King.
+BTN shows [ 9h, 6c ]a pair of Nines.
+BTN wins $71 USD from the main pot with a pair of Nines.
 
 
 Game #16406593642 starts.
@@ -2027,25 +2008,25 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:18:28 CEST 2009
 Table Heads Up #1443538 (No DP) (Real Money)
 Seat 1 is the button
 Total number of players : 2 
-Seat 2: SB ( $635 USD )
-Seat 1: BB ( $519.08 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BB ( $635 USD )
+Seat 1: BTN ( $519.08 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB calls [$3 USD]
-SB checks
+BTN calls [$3 USD]
+BB checks
 ** Dealing Flop ** [ 3h, Jc, 7c ]
-SB checks
 BB checks
+BTN checks
 ** Dealing Turn ** [ 3d ]
-SB checks
 BB checks
+BTN checks
 ** Dealing River ** [ 2h ]
-SB checks
 BB checks
-SB shows [ 6s, Ah ]a pair of Threes with Ace kicker.
-BB doesn't show [ 9d, 5c ]a pair of Threes.
-SB wins $11.40 USD from the main pot with a pair of Threes with Ace kicker.
+BTN checks
+BB shows [ 6s, Ah ]a pair of Threes with Ace kicker.
+BTN doesn't show [ 9d, 5c ]a pair of Threes.
+BB wins $11.40 USD from the main pot with a pair of Threes with Ace kicker.
 
 
 Game #16407168650 starts.
@@ -2127,25 +2108,25 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:20:50 CEST 2009
 Table Heads Up #1443538 (No DP) (Real Money)
 Seat 1 is the button
 Total number of players : 2 
-Seat 2: SB ( $631.40 USD )
-Seat 1: BB ( $518.88 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BB ( $631.40 USD )
+Seat 1: BTN ( $518.88 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB calls [$3 USD]
-SB checks
+BTN calls [$3 USD]
+BB checks
 ** Dealing Flop ** [ Qd, 3h, Kh ]
-SB checks
 BB checks
+BTN checks
 ** Dealing Turn ** [ 6s ]
-SB bets [$12 USD]
-BB calls [$12 USD]
+BB bets [$12 USD]
+BTN calls [$12 USD]
 ** Dealing River ** [ Jd ]
-SB checks
 BB checks
-SB shows [ Qh, 4c ]a pair of Queens.
-BB shows [ Qs, 4s ]a pair of Queens.
-BB wins $17.50 USD from the main pot with a pair of Queens.
+BTN checks
+BB shows [ Qh, 4c ]a pair of Queens.
+BTN shows [ Qs, 4s ]a pair of Queens.
+BTN wins $17.50 USD from the main pot with a pair of Queens.
 
 
 Game #16407172406 starts.
@@ -2155,26 +2136,26 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:21:17 EDT 2009
 Table Heads Up #1443554 (No DP) (Real Money)
 Seat 1 is the button
 Total number of players : 2 
-Seat 1: BB ( $379.46 USD )
-Seat 2: SB ( $942.90 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 1: BTN ( $379.46 USD )
+Seat 2: BB ( $942.90 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$15 USD]
-SB calls [$12 USD]
+BTN raises [$15 USD]
+BB calls [$12 USD]
 ** Dealing Flop ** [ 9s, 2d, Kc ]
-SB checks
-BB bets [$17.50 USD]
-SB calls [$17.50 USD]
+BB checks
+BTN bets [$17.50 USD]
+BB calls [$17.50 USD]
 ** Dealing Turn ** [ Kh ]
-SB checks
 BB checks
+BTN checks
 ** Dealing River ** [ Jd ]
-SB checks
 BB checks
-SB shows [ Ac, 9d ]two pairs, Kings and Nines.
-BB doesn't show [ 7d, 7c ]two pairs, Kings and Sevens.
-SB wins $70 USD from the main pot with two pairs, Kings and Nines.
+BTN checks
+BB shows [ Ac, 9d ]two pairs, Kings and Nines.
+BTN doesn't show [ 7d, 7c ]two pairs, Kings and Sevens.
+BB wins $70 USD from the main pot with two pairs, Kings and Nines.
 
 
 Game #16407176810 starts.
@@ -2184,24 +2165,24 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:23:16 EDT 2009
 Table Heads Up #1443554 (No DP) (Real Money)
 Seat 2 is the button
 Total number of players : 2 
-Seat 1: SB ( $352.96 USD )
-Seat 2: BB ( $968.40 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 1: BB ( $352.96 USD )
+Seat 2: BTN ( $968.40 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$11 USD]
-SB raises [$38 USD]
-BB calls [$30 USD]
+BTN raises [$11 USD]
+BB raises [$38 USD]
+BTN calls [$30 USD]
 ** Dealing Flop ** [ Td, 4c, 2d ]
-SB bets [$99 USD]
-BB is all-In  [$924.40 USD]
-SB is all-In  [$209.96 USD]
+BB bets [$99 USD]
+BTN is all-In  [$924.40 USD]
+BB is all-In  [$209.96 USD]
 ** Dealing Turn ** [ 3h ]
 ** Dealing River ** [ 6s ]
-SB shows [ Jc, Jh ]a pair of Jacks.
-BB shows [ Js, Tc ]a pair of Tens.
-BB wins $615.44 USD from the side pot 1 with a pair of Tens.
-SB wins $704.92 USD from the main pot with a pair of Jacks.
+BB shows [ Jc, Jh ]a pair of Jacks.
+BTN shows [ Js, Tc ]a pair of Tens.
+BTN wins $615.44 USD from the side pot 1 with a pair of Tens.
+BB wins $704.92 USD from the main pot with a pair of Jacks.
 
 
 Game #16406605288 starts.
@@ -2211,26 +2192,26 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:23:26 CEST 2009
 Table Heads Up #1443538 (No DP) (Real Money)
 Seat 2 is the button
 Total number of players : 2 
-Seat 2: BB ( $629 USD )
-Seat 1: SB ( $530.78 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BTN ( $629 USD )
+Seat 1: BB ( $530.78 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$15 USD]
-SB calls [$12 USD]
+BTN raises [$15 USD]
+BB calls [$12 USD]
 ** Dealing Flop ** [ 4c, 3s, Ac ]
-SB checks
 BB checks
+BTN checks
 ** Dealing Turn ** [ 5h ]
-SB bets [$12 USD]
-BB raises [$38 USD]
-SB calls [$26 USD]
+BB bets [$12 USD]
+BTN raises [$38 USD]
+BB calls [$26 USD]
 ** Dealing River ** [ 3c ]
-SB checks
 BB checks
-SB shows [ 2d, 2c ]a straight Ace to Five.
-BB doesn't show [ Kh, 6s ]a pair of Threes.
-SB wins $111 USD from the main pot with a straight, Ace to Five.
+BTN checks
+BB shows [ 2d, 2c ]a straight Ace to Five.
+BTN doesn't show [ Kh, 6s ]a pair of Threes.
+BB wins $111 USD from the main pot with a straight, Ace to Five.
 
 
 Game #16406607552 starts.
@@ -2240,25 +2221,25 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:24:25 CEST 2009
 Table Heads Up #1443538 (No DP) (Real Money)
 Seat 2 is the button
 Total number of players : 2 
-Seat 2: BB ( $600 USD )
-Seat 1: SB ( $606.78 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BTN ( $600 USD )
+Seat 1: BB ( $606.78 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$15 USD]
-SB calls [$12 USD]
+BTN raises [$15 USD]
+BB calls [$12 USD]
 ** Dealing Flop ** [ Th, Kd, Jd ]
-SB checks
 BB checks
+BTN checks
 ** Dealing Turn ** [ 3d ]
-SB checks
 BB checks
+BTN checks
 ** Dealing River ** [ Qd ]
-SB bets [$24 USD]
-BB calls [$24 USD]
-SB shows [ 7h, 9c ]a straight Nine to King.
-BB shows [ 5d, 9h ]a flush, King high.
-BB wins $83 USD from the main pot with a flush, King high.
+BB bets [$24 USD]
+BTN calls [$24 USD]
+BB shows [ 7h, 9c ]a straight Nine to King.
+BTN shows [ 5d, 9h ]a flush, King high.
+BTN wins $83 USD from the main pot with a flush, King high.
 
 
 Game #16406608532 starts.
@@ -2268,28 +2249,28 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:24:50 CEST 2009
 Table Heads Up #1443538 (No DP) (Real Money)
 Seat 1 is the button
 Total number of players : 2 
-Seat 2: SB ( $641 USD )
-Seat 1: BB ( $564.78 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BB ( $641 USD )
+Seat 1: BTN ( $564.78 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB calls [$3 USD]
-SB checks
-** Dealing Flop ** [ 5h, Jc, 3c ]
-SB bets [$6 USD]
-BB raises [$12 USD]
-SB raises [$36 USD]
-BB calls [$30 USD]
-** Dealing Turn ** [ Qh ]
-SB bets [$72 USD]
-BB calls [$72 USD]
-** Dealing River ** [ Qc ]
-SB checks
+BTN calls [$3 USD]
 BB checks
-SB shows [ Jd, 5s ]two pairs, Queens and Jacks.
-BB shows [ 3s, Jh ]two pairs, Queens and Jacks.
+** Dealing Flop ** [ 5h, Jc, 3c ]
+BB bets [$6 USD]
+BTN raises [$12 USD]
+BB raises [$36 USD]
+BTN calls [$30 USD]
+** Dealing Turn ** [ Qh ]
+BB bets [$72 USD]
+BTN calls [$72 USD]
+** Dealing River ** [ Qc ]
+BB checks
+BTN checks
+BB shows [ Jd, 5s ]two pairs, Queens and Jacks.
+BTN shows [ 3s, Jh ]two pairs, Queens and Jacks.
+BTN wins $119.50 USD from the main pot with two pairs, Queens and Jacks.
 BB wins $119.50 USD from the main pot with two pairs, Queens and Jacks.
-SB wins $119.50 USD from the main pot with two pairs, Queens and Jacks.
 
 
 Game #16407180596 starts.
@@ -2374,26 +2355,26 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:26:02 CEST 2009
 Table Heads Up #1443538 (No DP) (Real Money)
 Seat 1 is the button
 Total number of players : 2 
-Seat 2: SB ( $622.50 USD )
-Seat 1: BB ( $581.28 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BB ( $622.50 USD )
+Seat 1: BTN ( $581.28 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$9 USD]
-SB calls [$6 USD]
+BTN raises [$9 USD]
+BB calls [$6 USD]
 ** Dealing Flop ** [ 9d, 7c, 8c ]
-SB checks
 BB checks
+BTN checks
 ** Dealing Turn ** [ Qh ]
-SB checks
-BB bets [$18 USD]
-SB calls [$18 USD]
-** Dealing River ** [ Tc ]
-SB checks
 BB checks
-SB shows [ 4h, 7h ]a pair of Sevens.
-BB doesn't show [ 3d, 4d ]high card Queen.
-SB wins $59 USD from the main pot with a pair of Sevens.
+BTN bets [$18 USD]
+BB calls [$18 USD]
+** Dealing River ** [ Tc ]
+BB checks
+BTN checks
+BB shows [ 4h, 7h ]a pair of Sevens.
+BTN doesn't show [ 3d, 4d ]high card Queen.
+BB wins $59 USD from the main pot with a pair of Sevens.
 
 
 Game #16407183226 starts.
@@ -2541,27 +2522,27 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:28:54 CEST 2009
 Table Heads Up #1443538 (No DP) (Real Money)
 Seat 2 is the button
 Total number of players : 2 
-Seat 2: BB ( $638.50 USD )
-Seat 1: SB ( $560.48 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BTN ( $638.50 USD )
+Seat 1: BB ( $560.48 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$15 USD]
-SB calls [$12 USD]
+BTN raises [$15 USD]
+BB calls [$12 USD]
 ** Dealing Flop ** [ Qc, 4d, 3d ]
-SB checks
-BB bets [$24 USD]
-SB calls [$24 USD]
-** Dealing Turn ** [ Qs ]
-SB checks
-BB bets [$55 USD]
-SB calls [$55 USD]
-** Dealing River ** [ Qh ]
-SB checks
 BB checks
-SB shows [ 4h, 4c ]a full house, Queens full of Fours.
-BB doesn't show [ 9s, Kd ]three of a kind, Queens.
-SB wins $193 USD from the main pot with a full house, Queens full of Fours.
+BTN bets [$24 USD]
+BB calls [$24 USD]
+** Dealing Turn ** [ Qs ]
+BB checks
+BTN bets [$55 USD]
+BB calls [$55 USD]
+** Dealing River ** [ Qh ]
+BB checks
+BTN checks
+BB shows [ 4h, 4c ]a full house, Queens full of Fours.
+BTN doesn't show [ 9s, Kd ]three of a kind, Queens.
+BB wins $193 USD from the main pot with a full house, Queens full of Fours.
 
 
 Game #16407190526 starts.
@@ -2609,26 +2590,26 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:29:29 CEST 2009
 Table Heads Up #1443538 (No DP) (Real Money)
 Seat 1 is the button
 Total number of players : 2 
-Seat 2: SB ( $600 USD )
-Seat 1: BB ( $656.48 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BB ( $600 USD )
+Seat 1: BTN ( $656.48 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB calls [$3 USD]
-SB checks
+BTN calls [$3 USD]
+BB checks
 ** Dealing Flop ** [ Qh, 6d, 4h ]
-SB bets [$6 USD]
-BB raises [$12 USD]
-SB calls [$6 USD]
+BB bets [$6 USD]
+BTN raises [$12 USD]
+BB calls [$6 USD]
 ** Dealing Turn ** [ Kh ]
-SB checks
 BB checks
+BTN checks
 ** Dealing River ** [ Jc ]
-SB checks
 BB checks
-SB shows [ 5d, 3c ]high card King.
-BB shows [ Qd, 7s ]a pair of Queens.
-BB wins $35 USD from the main pot with a pair of Queens.
+BTN checks
+BB shows [ 5d, 3c ]high card King.
+BTN shows [ Qd, 7s ]a pair of Queens.
+BTN wins $35 USD from the main pot with a pair of Queens.
 
 
 Game #16406621214 starts.
@@ -2638,26 +2619,26 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:30:25 CEST 2009
 Table Heads Up #1443538 (No DP) (Real Money)
 Seat 2 is the button
 Total number of players : 2 
-Seat 2: BB ( $605 USD )
-Seat 1: SB ( $666.48 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BTN ( $605 USD )
+Seat 1: BB ( $666.48 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$15 USD]
-SB calls [$12 USD]
+BTN raises [$15 USD]
+BB calls [$12 USD]
 ** Dealing Flop ** [ 5d, 7h, 8d ]
-SB checks
-BB bets [$25 USD]
-SB calls [$25 USD]
+BB checks
+BTN bets [$25 USD]
+BB calls [$25 USD]
 ** Dealing Turn ** [ 9c ]
-SB checks
 BB checks
+BTN checks
 ** Dealing River ** [ Qd ]
-SB checks
 BB checks
-SB shows [ Jc, 9h ]a pair of Nines.
-BB doesn't show [ Th, 7c ]a pair of Sevens.
-SB wins $85 USD from the main pot with a pair of Nines.
+BTN checks
+BB shows [ Jc, 9h ]a pair of Nines.
+BTN doesn't show [ Th, 7c ]a pair of Sevens.
+BB wins $85 USD from the main pot with a pair of Nines.
 
 
 Game #16406623100 starts.
@@ -2667,25 +2648,25 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:31:16 CEST 2009
 Table Heads Up #1443538 (No DP) (Real Money)
 Seat 2 is the button
 Total number of players : 2 
-Seat 2: BB ( $649 USD )
-Seat 1: SB ( $658.48 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BTN ( $649 USD )
+Seat 1: BB ( $658.48 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$9 USD]
-SB calls [$6 USD]
+BTN raises [$9 USD]
+BB calls [$6 USD]
 ** Dealing Flop ** [ 4h, Tc, Kd ]
-SB checks
 BB checks
+BTN checks
 ** Dealing Turn ** [ Jd ]
-SB checks
 BB checks
+BTN checks
 ** Dealing River ** [ Th ]
-SB checks
 BB checks
-SB shows [ 9d, 8s ]a pair of Tens with Nine kicker.
-BB doesn't show [ 5d, 7s ]a pair of Tens.
-SB wins $23 USD from the main pot with a pair of Tens with Nine kicker.
+BTN checks
+BB shows [ 9d, 8s ]a pair of Tens with Nine kicker.
+BTN doesn't show [ 5d, 7s ]a pair of Tens.
+BB wins $23 USD from the main pot with a pair of Tens with Nine kicker.
 
 
 Game #16407197232 starts.
@@ -2910,26 +2891,26 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:35:43 CEST 2009
 Table Heads Up #1443538 (No DP) (Real Money)
 Seat 2 is the button
 Total number of players : 2 
-Seat 2: BB ( $651 USD )
-Seat 1: SB ( $647.68 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BTN ( $651 USD )
+Seat 1: BB ( $647.68 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$15 USD]
-SB calls [$12 USD]
+BTN raises [$15 USD]
+BB calls [$12 USD]
 ** Dealing Flop ** [ 9d, 5s, 2d ]
-SB checks
-BB bets [$22 USD]
-SB calls [$22 USD]
-** Dealing Turn ** [ 3d ]
-SB checks
 BB checks
+BTN bets [$22 USD]
+BB calls [$22 USD]
+** Dealing Turn ** [ 3d ]
+BB checks
+BTN checks
 ** Dealing River ** [ 6h ]
-SB bets [$60 USD]
-BB calls [$60 USD]
-SB shows [ 7d, Kd ]a flush, King high.
-BB doesn't show [ 5h, 7s ]a pair of Fives.
-SB wins $199 USD from the main pot with a flush, King high.
+BB bets [$60 USD]
+BTN calls [$60 USD]
+BB shows [ 7d, Kd ]a flush, King high.
+BTN doesn't show [ 5h, 7s ]a pair of Fives.
+BB wins $199 USD from the main pot with a flush, King high.
 
 
 Game #16407207674 starts.
@@ -2978,25 +2959,25 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:37:33 CEST 2009
 Table Heads Up #1443538 (No DP) (Real Money)
 Seat 1 is the button
 Total number of players : 2 
-Seat 2: SB ( $628 USD )
-Seat 1: BB ( $722.08 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 2: BB ( $628 USD )
+Seat 1: BTN ( $722.08 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$9 USD]
-SB calls [$6 USD]
+BTN raises [$9 USD]
+BB calls [$6 USD]
 ** Dealing Flop ** [ 3d, Qs, Jh ]
-SB checks
 BB checks
+BTN checks
 ** Dealing Turn ** [ 8s ]
-SB checks
 BB checks
+BTN checks
 ** Dealing River ** [ 6d ]
-SB checks
 BB checks
-SB shows [ Kc, 2c ]high card King.
-BB doesn't show [ 2d, 7d ]high card Queen.
-SB wins $23 USD from the main pot with high card, King.
+BTN checks
+BB shows [ Kc, 2c ]high card King.
+BTN doesn't show [ 2d, 7d ]high card Queen.
+BB wins $23 USD from the main pot with high card, King.
 
 
 Game #16407210102 starts.
@@ -3006,28 +2987,28 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:37:44 EDT 2009
 Table Heads Up #1443554 (No DP) (Real Money)
 Seat 2 is the button
 Total number of players : 2 
-Seat 1: SB ( $634.42 USD )
-Seat 2: BB ( $683.50 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 1: BB ( $634.42 USD )
+Seat 2: BTN ( $683.50 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$11 USD]
-SB calls [$8 USD]
+BTN raises [$11 USD]
+BB calls [$8 USD]
 ** Dealing Flop ** [ 5d, 8c, 6c ]
-SB checks
-BB bets [$18 USD]
-SB calls [$18 USD]
+BB checks
+BTN bets [$18 USD]
+BB calls [$18 USD]
 ** Dealing Turn ** [ Qs ]
-SB checks
-BB bets [$48 USD]
-SB calls [$48 USD]
+BB checks
+BTN bets [$48 USD]
+BB calls [$48 USD]
 ** Dealing River ** [ 7c ]
-SB checks
-BB bets [$128 USD]
-SB calls [$128 USD]
-BB shows [ 5c, 4c ]a straight flush, Eight high.
-SB doesn't show [ Qh, Td ]a pair of Queens.
-BB wins $415 USD from the main pot with a straight flush, Eight high.
+BB checks
+BTN bets [$128 USD]
+BB calls [$128 USD]
+BTN shows [ 5c, 4c ]a straight flush, Eight high.
+BB doesn't show [ Qh, Td ]a pair of Queens.
+BTN wins $415 USD from the main pot with a straight flush, Eight high.
 
 
 Game #16407215966 starts.
@@ -3221,26 +3202,26 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:46:17 EDT 2009
 Table Heads Up #1443554 (No DP) (Real Money)
 Seat 2 is the button
 Total number of players : 2 
-Seat 1: SB ( $370.82 USD )
-Seat 2: BB ( $939.50 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 1: BB ( $370.82 USD )
+Seat 2: BTN ( $939.50 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$9 USD]
-SB calls [$6 USD]
+BTN raises [$9 USD]
+BB calls [$6 USD]
 ** Dealing Flop ** [ 4h, 3h, Kd ]
-SB bets [$17.25 USD]
-BB calls [$17.25 USD]
+BB bets [$17.25 USD]
+BTN calls [$17.25 USD]
 ** Dealing Turn ** [ 8s ]
-SB checks
 BB checks
+BTN checks
 ** Dealing River ** [ 6s ]
-SB checks
-BB bets [$15 USD]
-SB calls [$15 USD]
-BB shows [ Qc, Qs ]a pair of Queens.
-SB doesn't show [ 8c, Jd ]a pair of Eights.
-BB wins $87.50 USD from the main pot with a pair of Queens.
+BB checks
+BTN bets [$15 USD]
+BB calls [$15 USD]
+BTN shows [ Qc, Qs ]a pair of Queens.
+BB doesn't show [ 8c, Jd ]a pair of Eights.
+BTN wins $87.50 USD from the main pot with a pair of Queens.
 
 
 Game #16407236708 starts.
@@ -3250,26 +3231,26 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 04:48:46 EDT 2009
 Table Heads Up #1443554 (No DP) (Real Money)
 Seat 1 is the button
 Total number of players : 2 
-Seat 1: BB ( $311.57 USD )
-Seat 2: SB ( $997.75 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 1: BTN ( $311.57 USD )
+Seat 2: BB ( $997.75 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$15 USD]
-SB calls [$12 USD]
+BTN raises [$15 USD]
+BB calls [$12 USD]
 ** Dealing Flop ** [ 9s, 2h, 9d ]
-SB checks
-BB bets [$26.25 USD]
-SB calls [$26.25 USD]
+BB checks
+BTN bets [$26.25 USD]
+BB calls [$26.25 USD]
 ** Dealing Turn ** [ 5h ]
-SB checks
 BB checks
+BTN checks
 ** Dealing River ** [ 9h ]
-SB checks
 BB checks
-SB shows [ Ts, As ]three of a kind, Nines.
-BB shows [ 3c, 3s ]a full house, Nines full of Threes.
-BB wins $87.50 USD from the main pot with a full house, Nines full of Threes.
+BTN checks
+BB shows [ Ts, As ]three of a kind, Nines.
+BTN shows [ 3c, 3s ]a full house, Nines full of Threes.
+BTN wins $87.50 USD from the main pot with a full house, Nines full of Threes.
 
 
 Game #16407237374 starts.
@@ -3459,25 +3440,25 @@ $600 USD NL Texas Hold'em - Wednesday, July 01, 05:00:25 EDT 2009
 Table Heads Up #1443554 (No DP) (Real Money)
 Seat 2 is the button
 Total number of players : 2 
-Seat 1: SB ( $454.82 USD )
-Seat 2: BB ( $848.50 USD )
-BB posts small blind [$3 USD].
-SB posts big blind [$6 USD].
+Seat 1: BB ( $454.82 USD )
+Seat 2: BTN ( $848.50 USD )
+BTN posts small blind [$3 USD].
+BB posts big blind [$6 USD].
 ** Dealing down cards **
-BB raises [$9 USD]
-SB calls [$6 USD]
+BTN raises [$9 USD]
+BB calls [$6 USD]
 ** Dealing Flop ** [ 7s, 2c, 3d ]
-SB bets [$11.50 USD]
-BB calls [$11.50 USD]
+BB bets [$11.50 USD]
+BTN calls [$11.50 USD]
 ** Dealing Turn ** [ Js ]
-SB bets [$23 USD]
-BB calls [$23 USD]
+BB bets [$23 USD]
+BTN calls [$23 USD]
 ** Dealing River ** [ Jc ]
-SB checks
 BB checks
-SB shows [ 2s, 4s ]two pairs, Jacks and Twos.
-BB shows [ 3c, Qc ]two pairs, Jacks and Threes.
-BB wins $92 USD from the main pot with two pairs, Jacks and Threes.
+BTN checks
+BB shows [ 2s, 4s ]two pairs, Jacks and Twos.
+BTN shows [ 3c, Qc ]two pairs, Jacks and Threes.
+BTN wins $92 USD from the main pot with two pairs, Jacks and Threes.
 
 
 Game #16407285052 starts.
