@@ -4,11 +4,11 @@ import glob
 files = glob.glob(
     r"C:\Users\owner\Desktop\python\practice poker\data\*")
 
+data = []
 for file in files:
     with open(file) as fi:
         game = []
         showdown = False
-        data = []
         while True:
             line = fi.readline()
 
@@ -44,6 +44,7 @@ class Preprocessing:
         self.player_num_list = []
         self.button = 0
 
+        fin = False
         for text in self.data:
             if 'Seat' in text:
                 if 'is the button' in text:
@@ -62,7 +63,7 @@ class Preprocessing:
                 self.player_count = int(re.findall(r'\d+', text)[0])
 
             # 離席したプレイヤーを除く
-            if 'left the table' in text:
+            if ('left the table' in text) and (fin == False):
                 ID = text.split()[0]
                 for i in self.player_dict:
                     if self.player_dict[i]['id'] == ID:
@@ -71,6 +72,8 @@ class Preprocessing:
                         self.player_count -= 1
                         break
 
+            if 'wins' in text:
+                fin = True
         self.player_num_list.sort()
 
     def addPosition(self):
